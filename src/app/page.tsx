@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import { differenceInDays, differenceInHours, differenceInMinutes, differenceInSeconds } from 'date-fns';
-import Image from "next/image";
 
 interface TimeLeft {
   days: number;
