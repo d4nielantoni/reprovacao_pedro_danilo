@@ -54,7 +54,7 @@ export default function Home() {
     
     // ===== MODO PRODUÇÃO =====
     // const targetDate = new Date(2025, 4, 26, 20, 0, 0);
-    const targetDate = new Date(2025, 4, 26, 20, 0, 0);
+    const targetDate = new Date(2025, 5, 7, 18, 0, 0);
 
     const updateTimer = () => {
       const now = new Date();
