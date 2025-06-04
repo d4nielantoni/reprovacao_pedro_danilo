@@ -115,7 +115,7 @@ export default function Home() {
         <h2 className="text-2xl md:text-3xl mb-12">
           {timeLeft.isPast 
             ? 'O dia tão esperado chegou!'
-            : 'Dia 26 de Maio de 2025 às 20:00'}
+            : 'Dia 7 de Junho de 2025 às 18:00'}
         </h2>
 
         {!timeLeft.isPast && (
